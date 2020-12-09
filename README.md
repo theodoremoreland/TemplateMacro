@@ -10,16 +10,16 @@ This repository features a project that was originally a part of a different rep
      *The macro will detect if one of the three necessary worksheets are missing, or if one of the necessary inventory id columns are missing. In such a case, the macro will create the needed worksheets as to ensure they are of the proper name and inform the the user that certain columns are missing.
      
 # BEFORE ("seed qty update") SHEET
-<img src="images/srt_before1.PNG" width="900">
+<img src="presentation/1.PNG" width="900">
 
 # AFTER ("seed qty update") SHEET
-<img src="images/srt_after1.PNG" width="900">
+<img src="presentation/1.PNG" width="900">
 
 # BEFORE ("weight file STP") SHEET
-<img src="images/srt_before2.PNG" width="900">
+<img src="presentation/2.PNG" width="900">
 
 # AFTER ("weight file STP") SHEET
-<img src="images/srt_after2.PNG" width="900">
+<img src="presentation/2.PNG" width="900">
 
 ## HOW TO USE THE MACRO
 
